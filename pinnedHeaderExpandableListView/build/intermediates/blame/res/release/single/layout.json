@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\astest\\state\\Ywxin\\pinnedHeaderExpandableListView\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "E:\\astest\\state\\Ywxin\\pinnedHeaderExpandableListView\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\astest\\state\\Ywxin\\pinnedHeaderExpandableListView\\build\\intermediates\\res\\merged\\release\\layout\\group.xml",
+        "source": "E:\\astest\\state\\Ywxin\\pinnedHeaderExpandableListView\\src\\main\\res\\layout\\group.xml"
+    },
+    {
+        "merged": "E:\\astest\\state\\Ywxin\\pinnedHeaderExpandableListView\\build\\intermediates\\res\\merged\\release\\layout\\child.xml",
+        "source": "E:\\astest\\state\\Ywxin\\pinnedHeaderExpandableListView\\src\\main\\res\\layout\\child.xml"
+    }
+]
